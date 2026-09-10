@@ -93,7 +93,7 @@
     "docusaurus-plugin-showcase": "file:./src/plugins/docusaurus-plugin-showcase",
     "linkinator": "^6.1.2",
     "prettier": "^3.3.3",
-    "sharp": "^0.33.4",
+    "sharp": "^0.35.4",
     "shx": "^0.3.4",
     "typescript": "^5.5.4"
   }
